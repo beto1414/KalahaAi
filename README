@@ -1,1 +1,26 @@
-1 - To run the game you write "python3 game.py". The game uses standard libraries so there are no prerequisites
+# Kalaha Minimax AI 
+
+This repository provides a Python implementation of the Kalaha game with Minimax algorithm.
+
+## Prerequisites
+
+1. Python 3 installed:
+   python3 --version
+  
+
+2. Install Requirements:
+   This project does not require external dependencies as it uses only the Python standard library.
+
+3. Running the Game
+
+To start the game run the game.py python script:
+python3 game.py
+
+
+4. Game Modes
+After launching, choose from the following modes:
+- 1: Player vs Player
+- 2: Player vs AI
+- 3: AI vs Random AI (great for testing AI behavior)
+
+Follow the in-game prompts to make moves with each player choosing a pit to distribute stones
